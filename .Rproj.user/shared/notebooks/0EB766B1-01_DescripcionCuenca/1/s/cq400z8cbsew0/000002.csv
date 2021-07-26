@@ -1,0 +1,4 @@
+"0","hru = readShapePoly(paste0(wd,""Embalse01/Watershed/Shapes/hru2.shp""), "
+"0","                    force_ring = F,"
+"0","                    proj4string = utm)"
+"0","as.data.frame(hru)"
